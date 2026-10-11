@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Express IT Assistant
 // @namespace    sms-express-it
-// @version      7.6
+// @version      7.67
 // @description  Inspector H5P con CustomBoxes jerárquicas por Diapositiva, Slider y Video
 // @icon         https://raw.githubusercontent.com/JoY-dEv3/SMS/main/express-it/null-logo.png
 // @author       Null
