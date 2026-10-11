@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Express IT Assistant
 // @namespace    sms-express-it
-// @version      7.0
+// @version      7.5
 // @description  Inspector H5P con CustomBoxes jerárquicas por Diapositiva, Slider y Video
 // @author       Null
 // @match        https://expressit.edu.co/*
