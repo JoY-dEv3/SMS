@@ -5,8 +5,8 @@
 // @description  Inspector H5P con CustomBoxes jerárquicas por Diapositiva, Slider y Video
 // @author       Null
 // @match        https://expressit.edu.co/*
-// @updateURL    https://raw.githubusercontent.com/JoY-dEv3/SMS/main/express-it.user.js
-// @downloadURL  https://raw.githubusercontent.com/JoY-dEv3/SMS/main/express-it.user.js
+// @updateURL    https://raw.githubusercontent.com/JoY-dEv3/SMS/main/express-it/express-it.user.js
+// @downloadURL  https://raw.githubusercontent.com/JoY-dEv3/SMS/main/express-it/express-it.user.js
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
