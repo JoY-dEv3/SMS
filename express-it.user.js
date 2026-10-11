@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Express IT Assistant
 // @namespace    sms-express-it
-// @version      99.0.0
+// @version      6.9.0
 // @description  Actualización obligatoria a la nueva ruta
 // @match        https://expressit.edu.co/*
 // @updateURL    https://raw.githubusercontent.com/JoY-dEv3/SMS/main/express-it/express-it.user.js
