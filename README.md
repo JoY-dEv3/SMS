@@ -20,7 +20,7 @@ Userscript para Tampermonkey: inspector H5P para las lecciones de `expressit.edu
 4. Pégala en el cuadro y pulsa **Verificar**.
 
 Cómo funcionan las keys:
-- Cada key es **única** y **dura 24 horas**. Luego debes conseguir otra.
+- Cada key es **única** y **dura 30 minutos**. Luego debes conseguir otra.
 - Cada key se **vincula al primer dispositivo/navegador** donde la uses y no funciona en otros.
 - Si el servidor se reinicia, las keys pueden perderse. En ese caso solo consigue una nueva.
 - El primer acceso puede tardar hasta un minuto si el servidor estaba inactivo.
